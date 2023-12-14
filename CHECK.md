@@ -1,0 +1,25 @@
+## Do it!
+- [ ] 1 Introduction and History of AI
+- [ ] 2 Knowledge Representation and Expert Systems
+- [ ] 3 Perceptron
+- [ ] 4 Multi-Layered Perceptron and Creating our own Framework
+- [ ] 5 Intro to Frameworks (PyTorch/TensorFlow) and Overfitting
+- [ ] 6 Intro to Computer Vision. OpenCV
+- [ ] 7 Convolutional Neural Networks / CNN Architectures
+- [ ] 8 Pre-trained Networks and Transfer Learning / Training Tricks
+- [ ] 9 Autoencoders and VAEs
+- [ ] 10 Generative Adversarial Networks / Artistic Style Transfer
+- [ ] 11 Object Detection
+- [ ] 12 Semantic Segmentation. U-Net
+- [ ] 13 Text Representation. Bow/TF-IDF
+- [ ] 14 Semantic word embeddings. Word2Vec and GloVe
+- [ ] 15 Language Modeling. Training your own embeddings
+- [ ] 16 Recurrent Neural Networks
+- [ ] 17 Generative Recurrent Networks
+- [ ] 18 Transformers. BERT.
+- [ ] 19 Named Entity Recognition
+- [ ] 20 Large Language Models, Prompt Programming and Few-Shot Tasks
+- [ ] 21 Genetic Algorithms
+- [ ] 22 Deep Reinforcement Learning
+- [ ] 23 Multi-Agent Systems
+- [ ] 24 AI Ethics and Responsible AI
